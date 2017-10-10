@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  1 20:41:00 2017
 
-@author: keerthi
-"""
 
 from xmljson import parker, Parker
 from xmljson import yahoo
