@@ -1,2 +1,4 @@
-Name: Keerthi Reddy Gangidi
-Roster Number: 2
+| #        |                              |
+|:--------:|:--------------------:            |
+|   NAME              |    Keerthi Reddy Gangidi         |
+|   ROSTER NUMBER     |    2                             |
