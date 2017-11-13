@@ -1,10 +1,12 @@
-# Parking Space Project
+# Occupied Parking Space Project
 **NAME:** Keerthi Reddy Gangidi
+
+Due:October 1
 
 **ROSTER NUMBER:** 2
 
 | #        | Name                 |
 |:--------:|:--------------------:|
-|   1      |    Keerthi Reddy Gangidi         |
-|   2      |    Lavanya Mengaraboina        |
-|   3      |    Krishna Saka      |
+|   2      |    Keerthi Reddy Gangidi         |
+|   9     |    Lavanya Mengaraboina        |
+|   5      |    Krishna Saka      |
