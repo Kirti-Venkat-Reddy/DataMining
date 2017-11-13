@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 #creating a list to append the elements
 emp_details = []
 for i in range(9,10):
@@ -20,4 +21,8 @@ for i in range(9,10):
 #appending all elemets to list
         emp_details.append(person_dict)
         #printing all elements in list
-print(emp_details)
+#print(emp_details)
+with open('output.json', 'w') as f:                             # write data into json file
+    output=json.dumps(emp_details,indent=1)
+    f.write(output)     
+#print(emp_details)
