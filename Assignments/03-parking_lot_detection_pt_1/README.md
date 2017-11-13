@@ -1,6 +1,6 @@
 # Occupied Parking Space Project
 
-Due:October 1
+Due: October 1
 
 **NAME:** Keerthi Reddy Gangidi
 
