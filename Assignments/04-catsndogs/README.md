@@ -6,6 +6,8 @@ Due: October 10
 
 **ROSTER NUMBER:** 2
 
+#### GROUP MEMBERS
+
 | #        | Name                 |
 |:--------:|:--------------------:|
 |   2      |    Keerthi Reddy Gangidi         |
