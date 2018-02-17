@@ -1,8 +1,5 @@
 """
-Team members:
-1.Krishna Saka
-2.Lavanya Mengaraboina
-3.Keerthi Reddy Gangidi
+
 """
 import os
 import tensorflow as tf
