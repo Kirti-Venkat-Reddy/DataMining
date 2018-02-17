@@ -1,8 +1,5 @@
 """
-Team members:
-1.Krishna Saka
-2.Lavanya Mengaraboina
-3.Keerthi Reddy Gangidi
+
 """
 #importing required files
 import numpy as np
