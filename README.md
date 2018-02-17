@@ -4,6 +4,5 @@
 
 First Name : Keerthi Reddy
 
-Last Name : Gangidi
 
 Email : reddykeerthi009@gmail.com
