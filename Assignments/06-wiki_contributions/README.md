@@ -4,7 +4,7 @@
 
 | #        | Name                             |
 |:--------:|:--------------------:            |
-|   2     |    Keerthi Reddy Gangidi         |
+|   2     |    Keerthi Reddy          |
 
 
 #### Powerpoint
