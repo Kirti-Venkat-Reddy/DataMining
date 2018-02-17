@@ -1,17 +1,9 @@
 
 ## single_space_cnn
 
-**NAME:** Keerthi Reddy Gangidi
+**NAME:** Keerthi Reddy 
 
 **ROSTER NUMBER:** 2
-
-#### GROUP MEMBERS
-
-| #        | Name                 |
-|:--------:|:--------------------:|
-|   2      |    Keerthi Reddy Gangidi         |
-|   9     |    Lavanya Mengaraboina        |
-|   5      |    Krishna Saka      |
 
 
 ## Data Set 2
