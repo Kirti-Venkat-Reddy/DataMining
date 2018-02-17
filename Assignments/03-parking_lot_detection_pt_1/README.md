@@ -6,10 +6,4 @@ Due: October 1
 
 **ROSTER NUMBER:** 2
 
-#### GROUP MEMBERS
 
-| #        | Name                 |
-|:--------:|:--------------------:|
-|   2      |    Keerthi Reddy Gangidi         |
-|   9     |    Lavanya Mengaraboina        |
-|   5      |    Krishna Saka      |
